@@ -5,6 +5,9 @@ A Retrieval-Augmented Generation (RAG) application that allows users to ask ques
 This project was built to understand the fundamentals of RAG systems and how components like **LangChain**, **Groq**, **Chroma Vector Database**, and **embeddings** work together in a complete retrieval pipeline.
 
 ---
+## Screenshot of Working Website
+<img width="1727" height="706" alt="image" src="https://github.com/user-attachments/assets/1e191dba-7969-45ce-ae3a-0c5e4ee62a1e" />
+
 
 ## Table of Contents
 
